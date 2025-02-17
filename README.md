@@ -1,6 +1,4 @@
-# Chicago_Violations_Analysis
-
-🏛️ Chicago Ordinance Violations Analysis 📊
+# 🏛️ Chicago Ordinance Violations Analysis 📊
 
 📖 Introduction
 This project analyzes building-related ordinance violations in Chicago, Illinois, using the chicago_violations.csv dataset. The dataset spans from 2008 to the 2024 and provides insights into violation patterns across different city wards. Through this analysis, we explore data wrangling, filtering, statistical analysis, and data visualization techniques to uncover key patterns and trends.
